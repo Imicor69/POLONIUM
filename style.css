@@ -1,0 +1,13 @@
+
+body{
+    height: 100vh;
+    background: #374158;
+}
+h1{
+  font-family: Consolas, monaco, monospace;
+  font-weight:   ;
+  font-size: 16pt;
+}
+h4 {
+  color: gray;
+}
