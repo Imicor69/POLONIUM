@@ -3,7 +3,7 @@ body{
     height: 100vh;
     background: #374158;
 }
-h1{
+.headp{
   font-family: Consolas, monaco, monospace;
   font-weight:   ;
   font-size: 16pt;
@@ -11,3 +11,45 @@ h1{
 h4 {
   color: gray;
 }
+
+.col-size {
+      content: "blc";
+      content: "btit";
+      text-align: center;
+
+     width  : 800px;
+     height : 800px;
+  background: white;
+
+     margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+
+.btit{
+ content: "headp";
+      text-align: center;
+     width  : 700px;
+     height : 50px;
+     border-color: grey;
+     
+  background: #11151D;
+     margin-left: auto;
+    margin-right: auto;
+    border-radius: 50px;
+}
+.blc {
+background: transparent;
+    width  : 700px;
+     height : 30px;
+     text-align: center;
+     border-radius: 50;
+}
+
+.headp{
+color: #D76C58;
+text-align: center;
+
+}
+
+ {}
